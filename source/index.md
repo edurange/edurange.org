@@ -4,9 +4,9 @@ sharing: false
 footer: true
 ---
 
-## EDURange is an NSF-funded project with the aim of building cloud-based interactive security exercises.
+## EDURange is a suite of interactive, educational computer security exercises.
 
-This project consists of a suite of exercises to help supplement classroom lectures, labs, and other activities. 
+This NSF-funded project aims to create a collection of exercises to help supplement classroom lectures, labs, and other activities. 
 
 We focus our development on two major goals:
 
