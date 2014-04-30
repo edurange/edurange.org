@@ -5,7 +5,7 @@ footer: true
 ---
 
 ## EDURange is a suite of interactive, educational computer security exercises.
-
+<br />
 This NSF-funded project aims to create a collection of exercises to help supplement classroom lectures, labs, and other activities. 
 
 We focus our development on two major goals:
@@ -26,8 +26,16 @@ We want to create exercises that force students to think rather than just follow
 
 ***
 
-We believe that learning can be enhanced by an interactive, team competition-based approach to practicing cyber security skills and principles in an open-source, publicly available, customizable, “live-fire” setting.  This platform specifically rewards the time students spend on analysis, debugging, testing, and reverse-engineering. The project will address a key research question: understanding of how best to represent and explain the security implications and semantics of configuration choices (the parameter space of a scenario) to an instructor with limited knowledge of information security.  We are developing a scenario description language (SDL) to do this.
+We believe that learning can be enhanced by an interactive, team competition-based approach to practicing cybersecurity skills and principles in an open-source, publicly available, customizable, “live-fire” setting. This platform specifically rewards the time students spend on analysis, debugging, testing, and reverse-engineering. The project will address a key research question: understanding of how best to represent and explain the security implications and semantics of configuration choices (the parameter space of a scenario) to an instructor with limited knowledge of information security. We are developing a *scenario description language* (SDL) to do this.
 
-The research and development agenda focuses on investigating three core issues: (1) the construction of a suite of cybersecurity scenarios; (2) the deployment of this platform in a variety security testbeds and cloud environments (at no cost to students or instructors); and (3) an understanding of how such scenarios might be used as an evaluation and assessment tool for both students in the course of their studies as well as an independent benchmark for other cybersecurity training programs, curricula, and exercises.  The project has a potential to significantly advance the integration of cybersecurity into the undergraduate computer science curriculum. By providing interactive, competitive exercises, it will enhance the quality of instructional material, increasing active learning for students. By making it easy for the instructors to use, it will encourage them to integrate cybersecurity into the current core curriculum. These exercises will also provide rapid feedback to students and faculty, which will aid in assessment of student learning. We contemplate a significant outreach effort which will also facilitate this process.
+The research and development agenda focuses on investigating three core issues: 
+
+1. The construction of a suite of cybersecurity scenarios. 
+
+2. The deployment of this platform in a variety security testbeds and cloud environments (at no cost to students or instructors).
+
+3. An understanding of how such scenarios might be used as an evaluation and assessment tool for both students in the course of their studies as well as an independent benchmark for other cybersecurity training programs, curricula, and exercises.
+
+The project has a potential to significantly advance the integration of cybersecurity into the undergraduate computer science curriculum. By providing interactive, competitive exercises, it will enhance the quality of instructional material, increasing active learning for students. Making it easy for the instructors to use, it will encourage them to integrate cybersecurity into the current core curriculum. These exercises will also provide rapid feedback to students and faculty, which will aid in assessment of student learning. We contemplate a significant outreach effort that will also facilitate this process.
 
 Our goal in this outreach is to provide a publicly accessible environment with a minimal barrier to entry.  EDURange helps students buy into the process of sharpening their information security analysis skills and makes them a partner in evaluating and understanding the limits of those skills.
