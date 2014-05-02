@@ -3,7 +3,7 @@ layout: page
 title: Blog Archive
 footer: false
 ---
-
+<!--
 <div id="blog-archives">
   <table>
     {% for post in site.posts reverse %}
@@ -15,8 +15,9 @@ footer: false
             <h3><small><strong>{{ year }}</strong></small></h3>
           {% endunless %}
         </td>
-        <!--{% include archive_post.html %}-->
+       {% include archive_post.html %}
       </tr>
     {% endfor %}
   </table>
 </div>
+-->
