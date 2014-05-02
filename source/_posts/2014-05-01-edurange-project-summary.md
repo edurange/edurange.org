@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "EDURange: Project Summary
+title: "EDURange: Project Summary"
 categories: [project, manifesto]
 sharing: false
 footer: true
