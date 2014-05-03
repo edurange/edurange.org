@@ -1,6 +1,7 @@
 ---
 layout: page
 sharing: false
+sidebar: true
 footer: true
 ---
 
