@@ -1,9 +1,11 @@
 ---
 layout: page
-title: "Project"
+title: "The EDURange Project"
+sharing: false
 footer: true
 ---
 
-The EDURange project can currently be <a href="http://github.com/edurange/edurange">downloaded from our GitHub</a>. Keep in mind the projecr is still very much a work in progress at the moment.
+## Download ##
+The EDURange project is currently available <a href="http://github.com/edurange/edurange">from our GitHub</a>. Keep in mind the project is still very much a work in progress at the moment.
 
-To clone the repo, run `git clone git@github.com:edurange/edurange.git`. Once installed, make sure you're using Ruby version 2.0.0, and run `bundle install`.
+To clone the repo using Git, run `git clone git@github.com:edurange/edurange.git`. Once installed, make sure you're using Ruby version 2.0.0, and run `bundle install`.
