@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: "EDURange: Project Summary"
 categories: [project, manifesto]
 sharing: false
